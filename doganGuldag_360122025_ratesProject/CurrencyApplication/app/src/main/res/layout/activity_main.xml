@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btnGetRates"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get Rates"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:onClick="getRates"/>
+
+    <TextView
+        android:id="@+id/tvTRY"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TRY"
+        android:layout_below="@id/btnGetRates"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/tvEUR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EUR"
+        android:layout_below="@id/tvTRY"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/tvCHF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CHF"
+        android:layout_below="@id/tvEUR"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/tvJPY"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="JPY"
+        android:layout_below="@id/tvCHF"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/tvCAD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CAD"
+        android:layout_below="@id/tvJPY"
+        android:layout_marginTop="20dp"/>
+
+</RelativeLayout>
