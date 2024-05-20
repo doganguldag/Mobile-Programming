@@ -1,0 +1,52 @@
+{
+  "songs": [
+    {
+      "name": "Sarki 1",
+      "artist": "Sanatci 1",
+      "imageId": "song_default_image",
+      "lyrics": [
+        "Cimbom Galatasaray. Voluptatibus reprehenderit delectus fugiat quae ea accusantium fuga necessitatibus recusandae?",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit.", "Repellat non enim vitae provident sit mollitia iure! Quae consequuntur beatae doloribus!",
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit.", "Laborum, illum iure ad magni quasi provident distinctio et aliquid neque soluta?",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore soluta tenetur aspernatur nemo nulla quam voluptatem at ipsum maxime, ducimus sint voluptas, cum consequatur!",
+        "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus reprehenderit delectus fugiat quae ea accusantium fuga necessitatibus recusandae?",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit.", "Repellat non enim vitae provident sit mollitia iure! Quae consequuntur beatae doloribus!",
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit.", "Laborum, illum iure ad magni quasi provident distinctio et aliquid neque soluta?",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore soluta tenetur aspernatur nemo nulla quam voluptatem at ipsum maxime, ducimus sint voluptas, cum consequatur!"
+      ]
+    },
+    {
+      "name": "Sarki 2",
+      "artist": "Sanatci 2",
+      "imageId": "song_default_image",
+      "lyrics": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus reprehenderit delectus fugiat quae ea accusantium fuga necessitatibus recusandae?",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit.", "Repellat non enim vitae provident sit mollitia iure! Quae consequuntur beatae doloribus!",
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit.", "Laborum, illum iure ad magni quasi provident distinctio et aliquid neque soluta?",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore soluta tenetur aspernatur nemo nulla quam voluptatem at ipsum maxime, ducimus sint voluptas, cum consequatur!",
+        "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus reprehenderit delectus fugiat quae ea accusantium fuga necessitatibus recusandae?",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit.", "Repellat non enim vitae provident sit mollitia iure! Quae consequuntur beatae doloribus!",
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit.", "Laborum, illum iure ad magni quasi provident distinctio et aliquid neque soluta?",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore soluta tenetur aspernatur nemo nulla quam voluptatem at ipsum maxime, ducimus sint voluptas, cum consequatur!"
+      ]
+    },
+    {
+      "name": "Sarki 3",
+      "artist": "Sanatci 3",
+      "imageId": "song_default_image",
+      "lyrics": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus reprehenderit delectus fugiat quae ea accusantium fuga necessitatibus recusandae?",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit.", "Repellat non enim vitae provident sit mollitia iure! Quae consequuntur beatae doloribus!",
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit.", "Laborum, illum iure ad magni quasi provident distinctio et aliquid neque soluta?",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore soluta tenetur aspernatur nemo nulla quam voluptatem at ipsum maxime, ducimus sint voluptas, cum consequatur!",
+        "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus reprehenderit delectus fugiat quae ea accusantium fuga necessitatibus recusandae?",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit.", "Repellat non enim vitae provident sit mollitia iure! Quae consequuntur beatae doloribus!",
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit.", "Laborum, illum iure ad magni quasi provident distinctio et aliquid neque soluta?",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore soluta tenetur aspernatur nemo nulla quam voluptatem at ipsum maxime, ducimus sint voluptas, cum consequatur!"
+      ]
+    }
+  ]
+}
